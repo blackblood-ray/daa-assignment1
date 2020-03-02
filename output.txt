@@ -1,0 +1,15 @@
+OUTPUT OF PROGRAM WITH SAMPLE DATA
+------------------------------------
+INPUT:
+enter the value of number 1193
+
+OUTPUT:
+1193 is prime
+the number is rotated to 3119
+3199 is prime
+the number is rotated to 9311
+9311 is prime 
+the number is rotated to 1931
+1931 is prime
+the number is rotated to 1193
+-----------the number is circular prime-----------
